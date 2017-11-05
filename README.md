@@ -5,7 +5,9 @@
 pyOBIS is a Python 3.5 implementation that converts
 * various OBIS code representations and
 * numeric unit codes
+
 into textual, native and integer numeric representations.
+
 It is based on http://www.edi-energy.de/files2%5CEDI@Energy-Codeliste-OBIS-Kennzahlen_2_2e_20160401.pdf,
 IEC 62056-61:2002 and IEC 62056-62:2002.
 
